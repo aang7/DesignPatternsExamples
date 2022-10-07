@@ -1,0 +1,12 @@
+This repository contains basic examples to demonstrate the use cases of certain design patterns.
+
+Each Design Pattern example it's under its own package and each of them has its own =Main.java= file, on it you can find the final use case example.
+
+These are the current covered design patterns:
+
+- Strategy
+- Observer
+- Decorator
+- Factory 
+
+
